@@ -1,0 +1,50 @@
+.heading
+{
+	color: yellow;
+	font-size: 50px;
+	position: center;
+	padding: 50px 2px 2px 80px;
+}
+.description
+{
+	color: #505050;
+	font-size: 30px;
+	padding: 50px 30px 50px 80px;
+	border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+	border-left: 5px solid black;
+}
+.image 
+{
+    width: 400px;
+    position: center center;
+    left: 100px;
+    padding: 50px 2px 2px 150px
+}
+.chart 
+{
+    width: 800px;
+    height: 800px;
+}
+
+.circ1 
+{
+    stroke: yellow; 
+    fill: none;
+    stroke-width: 10;
+}
+
+.rect1
+{
+	fill: yellow;
+	stroke-width:3;
+	stroke:yellow; 
+}
+
+.poly1
+{
+	fill: none;
+	stroke: yellow;
+	stroke-width:10;
+}
